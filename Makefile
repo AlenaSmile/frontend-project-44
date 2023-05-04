@@ -15,4 +15,3 @@ publish:
 
 make lint:
 	npx eslint .
-	
