@@ -5,3 +5,4 @@
 
 <a href="https://asciinema.org/a/2MIrPSfruv6ArXzMU97jKO67F" target="_blank"><img src="https://asciinema.org/a/2MIrPSfruv6ArXzMU97jKO67F.svg" /></a>
 
+<a href="https://asciinema.org/a/BGw042qqJsPXDg5ZNaWCGJmps" target="_blank"><img src="https://asciinema.org/a/BGw042qqJsPXDg5ZNaWCGJmps.svg" /></a>
